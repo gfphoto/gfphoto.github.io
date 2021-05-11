@@ -7,7 +7,7 @@
 <tr>
 
 <td style="background-color:#0;width:650px;height:920px;text-align:center;vertical-align:top;">
-<img src="https://pcsdata.baidu.com/thumbnail/e8d10aa5fk8da9ba91b589a43fa95903?fid=96729711-16051585-101405307936043&rt=pr&sign=FDTAER-yUdy3dSFZ0SVxtzShv1zcMqd-0O8VlEGPtReqYNkyJSY%2B2eJkVGY%3D&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=730906484&dp-callid=0&time=1614355200&size=c1600_u1600&quality=100&vuk=-&ft=video" width="650" height="920" /></td>
+<img src="https://pcsdata.baidu.com/thumbnail/e8d10aa5fk8da9ba91b589a43fa95903?fid=96729711-16051585-101405307936043&rt=pr&sign=FDTAER-yUdy3dSFZ0SVxtzShv1zcMqd-LMtx2Az2dbZeT7%2BhcVWzq0AMevM%3D&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=4141374780&dp-callid=0&time=1620745200&size=c1600_u1600&quality=100&vuk=-&ft=video" width="650" height="920" /></td>
 
 <audio autoplay >
 <source src="https://enyasong.narod.ru/Track10.mp3" type="audio/mpeg">
