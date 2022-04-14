@@ -7,10 +7,10 @@
 <tr>
 
 <td style="background-color:#0;width:650px;height:920px;text-align:center;vertical-align:top;">
-<img src="https://wx1.sinaimg.cn/mw690/006WwrqJgy1gnn8pgofdej32c0341e81.jpg" width="650" height="920" /></td>
+<img src="http://imgoss.cnu.cc/2012/30/0b251c507fea369bbc7190cca770be68.jpg?x-oss-process=style/content" width="650" height="920" /></td>
 
 <audio autoplay >
-<source src="https://enyasong.narod.ru/Track10.mp3" type="audio/mpeg">
+<source src="http://www.ytmp3.cn/down/76670.mp3" type="audio/mpeg">
 <embed height="1px" width="1px" >
 
 <tr>
